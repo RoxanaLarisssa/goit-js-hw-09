@@ -2,7 +2,6 @@ import flatpickr from "flatpickr";
 
 import { Notify } from "notiflix/build/notiflix-notify-aio";
 
-// Додатковий імпорт стилів
 import "flatpickr/dist/flatpickr.min.css";
 
 const refs = {
